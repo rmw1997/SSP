@@ -8,9 +8,11 @@ This program is compatible with rules of Jubail University College.
 
 ## How to Use the SSP
  
+ 
+ 
+ 
 ### Home Page
 ![](./screenshots/HomePage.png)
-
 
 The homepage of **SSP** shows program's logo and its main buttons which include:
 - Home
@@ -18,6 +20,10 @@ The homepage of **SSP** shows program's logo and its main buttons which include:
 - Absence Calculator
 - Exit
 - ?
+
+
+
+
 
 ### GPA Calculator
 ![](./screenshots/GPACalculator.png)
@@ -29,6 +35,8 @@ Predicting the semester and cumulative GPA requires the student to provide the p
 - Courses’ names (Optional), credit hours, and expected grade
 
 Then the student would click **“Calculate”** to show the expected semester and cumulative GPA.
+
+
 
 
 ### Absence Calculator
