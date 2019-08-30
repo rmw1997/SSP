@@ -4,7 +4,7 @@
 
 A **Student Services Program (SSP)** serves students to predict semester and cumulative GPA,
 as well as calculating remaining hours to avoid getting a DN in a course. 
-This program is compatible with rules of Jubail University College.
+This program is compatible with rules of **Jubail University College**.
 
 ## How to Use the SSP
  
