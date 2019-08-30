@@ -43,9 +43,9 @@ After that the student would click **“Result”** to show the remaining hours 
 
 ## References
 - Savitch W., (2013), Absolute Java (5th ed.). San Diego, CA: University of California.
-- (https://www.javatpoint.com/java-tutorial)
-- (http://www.qu.edu.sa/GPA.aspx)
-- (http://www.ucj.edu.sa/en/eservices/Pages/GPA-Calculation.aspx)
+- https://www.javatpoint.com/java-tutorial
+- http://www.qu.edu.sa/GPA.aspx
+- http://www.ucj.edu.sa/en/eservices/Pages/GPA-Calculation.aspx
 
 ## Developed By:
 - Reem AlWadaey
