@@ -9,7 +9,7 @@ This program is compatible with rules of Jubail University College.
 ## How to Use the SSP
  
 ### Home Page
-[](https://raw.githubusercontent.com/rmw1997/SSP/screenshots/HomePage.png)
+![](https://raw.githubusercontent.com/rmw1997/SSP/screenshots/HomePage.png)
 
 
 The homepage of **SSP** shows program's logo and its main buttons which include:
