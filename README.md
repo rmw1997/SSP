@@ -20,7 +20,7 @@ The homepage of **SSP** shows program's logo and its main buttons which include:
 - ?
 
 ### GPA Calculator
-(./screenshots/GPACalculator.png)
+![](./screenshots/GPACalculator.png)
 Predicting the semester and cumulative GPA requires the student to provide the program with the following data:
 
 - Current GPA
@@ -32,7 +32,7 @@ Then the student would click **“Calculate”** to show the expected semester a
 
 
 ### Absence Calculator
-(./screenshots/AbsenceCalculator.png)
+![](./screenshots/AbsenceCalculator.png)
 Calculating the remaining hours before getting a DN in a course requires the student to provide the program with the following data:
 
 - Course name (Optional)
