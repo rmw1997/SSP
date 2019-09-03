@@ -24,15 +24,15 @@ public class StudentServices extends JFrame implements ActionListener {
 	JButton[] b = new JButton[10];
 	JLabel mainLogo,gpaLogo,absenceLogo,message,message2,signs;
 	JLabel[] l = new JLabel[13];
-    JTextField currentGPA,noOfHours,semGPA,cumulativeGPA,courseName,courseHours,absenceHours;
+        JTextField currentGPA,noOfHours,semGPA,cumulativeGPA,courseName,courseHours,absenceHours;
 	JRadioButton[] rb = new JRadioButton[7];
-    ButtonGroup bg = new ButtonGroup();
-    CardLayout cardLayout = new CardLayout();
-    JComboBox[] g , creditHours;
-    JTextField [] t = new JTextField [7];
-    double totalPoints , sem_GPA , cumulative_GPA , current_GPA , points;
-    int totalHours , no_Of_Hours ;
-	Font font = new Font ("Century Gothic",Font.PLAIN,20);
+        ButtonGroup bg = new ButtonGroup();
+        CardLayout cardLayout = new CardLayout();
+        JComboBox[] g , creditHours;
+        JTextField [] t = new JTextField [7];
+        double totalPoints , sem_GPA , cumulative_GPA , current_GPA , points;
+        int totalHours , no_Of_Hours ;
+  	Font font = new Font ("Century Gothic",Font.PLAIN,20);
 	Color c1 = new Color(51,153,153); //Lochinvar
 	Color c2 = new Color(178,36,107); //Hibiscus
 	Color c3 = new Color(88,89,91); //Gray
